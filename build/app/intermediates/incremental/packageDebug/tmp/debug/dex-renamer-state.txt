@@ -1,0 +1,4 @@
+#Sun Sep 26 05:20:04 CST 2021
+base.0=/Users/apple/Desktop/VisualStudioCodes/clock_plugin/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

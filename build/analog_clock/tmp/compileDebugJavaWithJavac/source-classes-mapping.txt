@@ -1,0 +1,2 @@
+flutter/furkantektas/com/analog_clock/BuildConfig.java
+ flutter.furkantektas.com.analog_clock.BuildConfig
